@@ -1,5 +1,5 @@
 Demetria Nadira Harlow	Female	Isadora Vanessa Dragoumis-Lund	Reinhardt Gustav Lund	Nathaniel Dean Harlow
 Joshua William Lund	Male	Isadora Vanessa Dragoumis-Lund	Reinhardt Gustav Lund
 Nathaniel Dean Harlow	Male	Myrtle Maeve Grey	Jonathan Fort Harlow	Demetria Nadira Harlow
-Hera Melody Harlow	Female	Demetria Nadira Harlow	Nathaniel Deal Harlow
+Hera Melody Harlow	Female	Demetria Nadira Harlow	Nathaniel Dean Harlow
 Michael Romeo Harlow	Male	Myrtle Maeve Grey	Jonathan Fort Harlow
